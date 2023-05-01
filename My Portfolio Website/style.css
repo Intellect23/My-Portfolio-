@@ -1,0 +1,60 @@
+
+
+body{
+    background-image= url(../trashed-1685342511-IMG_5816.JPG);
+}
+
+h1{
+    text-align: center;
+}
+.menu-bar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.menu-bar li{
+    float: left;
+    padding: 5px 10px;
+    list-style: none;
+}
+.menu-bar li a:hover{
+    background-color: lightskyblue;
+    color: black;
+}
+h2{
+    text-align: center;
+    float: none;
+}
+p{
+    float: none;
+    padding: 10px 20px;
+    color: indigo;
+}
+h1{
+    text-align: center;
+ }
+ h2{
+    text-align: center;
+    color: aqua;
+ }
+ p{
+    padding: 5px 20px;
+    color: indigo;
+ }
+ h1{
+    text-align: center;
+}
+.name{
+    color: black;
+    padding: 20px 20px;
+}
+h2{
+    text-align: center;
+    color: indigo;
+}
+p{
+    color: blue;
+}
+
+
